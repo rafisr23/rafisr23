@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @rafisr23
 - 👀 I’m interested in Back-end Web Developer
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning RestAPI
+- 📫 Get in touch @rafisr_ on instagram
 
 <!---
 rafisr23/rafisr23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
